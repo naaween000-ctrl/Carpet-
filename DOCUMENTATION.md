@@ -18,7 +18,7 @@ To run this website on your own computer:
    ```bash
    node server.js
    ```
-5. **View the Website**: Open your browser and go to `http://localhost:3000`.
+5. **View the Website**: Open your browser and go to `http://localhost:3010`.
 
 ---
 
@@ -26,7 +26,7 @@ To run this website on your own computer:
 
 You do **not** need to touch any code to add, edit, or remove carpets from the website. There is a built-in admin dashboard.
 
-1. Go to **`http://localhost:3000/admin`** (or click "Admin Login" in the website footer).
+1. Go to **`http://localhost:3010/admin`** (or click "Admin Login" in the website footer).
 2. To add a new carpet:
    - Enter the name, category, material, origin, and description.
    - For the **Image URL**, simply paste a direct link to an image.
